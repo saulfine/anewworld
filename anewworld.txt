@@ -13,3 +13,11 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/saulfine/anewworld.git
 git push -u origin master
+git pull origin master
+
+--adding some more info
+git branch clean_up
+git checkout branch
+--made some edits
+git commit -m "More testing"
+git push
